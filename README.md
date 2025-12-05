@@ -38,7 +38,7 @@ Tab1:AddDiscordInvite({
     Name = "fire Team",
     Description = "",
     Logo = "rbxassetid://https://discord.gg/9DuNjYzv",
-    Invite = "",
+    Invite = "https://discord.gg/9DuNjYzv",
 })
 
 
@@ -68,7 +68,7 @@ local Paragraph = Tab1:AddParagraph({"Execultor", executorName})
 
 local Section = Tab1:AddSection({"versao do Hub 3.7"})
 
-local Paragraph = Tab1:AddParagraph({"Criadores", "CoDevs "})
+local Paragraph = Tab1:AddParagraph({"Criadores", "fire "})
 
 local Paragraph = Tab1:AddParagraph({"créditos", "NINJA,VTEZE,SOVEREIGN"})
 
